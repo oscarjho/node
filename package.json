@@ -1,0 +1,38 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Simple knowledge base app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarjho/node.git"
+  },
+  "keywords": [
+    "node",
+    "mongo",
+    "react",
+    "express"
+  ],
+  "author": "Oscar Hernández\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[CHernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarjho/node/issues"
+  },
+  "homepage": "https://github.com/oscarjho/node#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "connect-flash": "^0.1.1",
+    "express": "^4.16.4",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.3.0",
+    "mongoose": "^5.3.14",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "pug": "^2.0.3"
+  }
+}

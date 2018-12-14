@@ -1,0 +1,9 @@
+-creamos el package.json
+npm init
+
+-corremos la app con 
+node app
+
+-creamos express 
+npm install --save express
+
